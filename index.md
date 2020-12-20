@@ -13,7 +13,7 @@ Our results suggest that the use of the Value Cards toolkit can **(a)** improve 
 
 Through out the study design and development, we paid special attention to the limitation of persona card.
 
-![value card](https://github.com/WesDeng/ValueCards/blob/main/Value%20Card.jpg)
+![value card](https://github.com/WesDeng/ValueCards/blob/main/Cards.jpg)
 
 **To Be Added**:
 
