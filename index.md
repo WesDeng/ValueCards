@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Value Cards
 
-You can use the [editor on GitHub](https://github.com/WesDeng/ValueCard/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## An Educational Toolkit for Teaching Social Impacts of Machine Learning through Deliberation
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Recently, there have been increasing calls for computer science curricula to complement existing technical training with topics related to Fairness, Accountability, Transparency, and Ethics. We present Value Cards, an educational toolkit to inform students and practitioners of the social impacts of different machine learning models via deliberation. 
 
-### Markdown
+In our [paper](https://arxiv.org/abs/2010.11411), we present an early use of our approach in the [Human-AI Interaction](https://haiicmu.github.io/) Course at CMU, Fall 2020. Through an in-class activity, we report empirical data for the initial effectiveness of our approach. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WesDeng/ValueCard/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Our results suggest that the use of the Value Cards toolkit can improve students' understanding of both the technical definitions and trade-offs of performance metrics and apply them in real-world contexts, help them recognize the significance of considering diverse social values in the development of deployment of algorithmic systems, and enable them to communicate, negotiate and synthesize the perspectives of diverse stakeholders. Our study also demonstrates a number of caveats we need to consider when using the different variants of the Value Cards toolkit. Finally, we discuss the challenges as well as future applications of our approach.
