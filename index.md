@@ -10,7 +10,7 @@ Recently, there have been increasing calls for computer science curricula to com
 
 In our [paper](https://arxiv.org/abs/2010.11411), we present an early use of our approach in the [Human-AI Interaction](https://haiicmu.github.io/) Course at CMU, Fall 2020. Through an in-class activity, we report empirical data for the initial effectiveness of our approach. 
 
-Our results suggest that the use of the Value Cards toolkit can
+Our results suggest that the use of the Value Cards toolkit can:
 
 **(a)** improve students' understanding of both the technical definitions and trade-offs of performance metrics and apply them in real-world contexts 
 
