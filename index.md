@@ -4,8 +4,6 @@
 
 ### [Hong Shen](https://www.andrew.cmu.edu/user//hongs/), [Wesley H. Deng](https://www.wesleydeng.com/), [Aditi Chattopadhyay](https://www.linkedin.com/in/aditi-chattopadhyay/), [Zhiwei Steven Wu](https://zstevenwu.com/), [Xu Wang](http://www.cs.cmu.edu/~xuwang/), [Haiyi Zhu](https://haiyizhu.com/)
 
-![image](https://github.com/WesDeng/ValueCards/blob/main/Cards.jpg)
-
 Recently, there have been increasing calls for computer science curricula to complement existing technical training with topics related to Fairness, Accountability, Transparency, and Ethics. We present Value Cards, an educational toolkit to inform students and practitioners of the social impacts of different machine learning models via deliberation. 
 
 In our [paper](https://arxiv.org/abs/2010.11411), we present an early use of our approach in the [Human-AI Interaction](https://haiicmu.github.io/) Course at CMU, Fall 2020. Through an in-class activity, we report empirical data for the initial effectiveness of our approach.
@@ -20,7 +18,7 @@ Our results suggest that the use of the Value Cards toolkit can:
 
 Through out the study design and development, we paid special attention to the limitation of persona card.
 
-**For Instructors**:
+**<font color=red>For Instructors</font>**:
 
 - Value Cards (Ready to use)
 
