@@ -6,6 +6,8 @@
 
 Recently, there have been increasing calls for computer science curricula to complement existing technical training with topics related to Fairness, Accountability, Transparency, and Ethics. We present Value Cards, an educational toolkit to inform students and practitioners of the social impacts of different machine learning models via deliberation. 
 
+Value Cards emcompass three
+
 In our [paper](https://arxiv.org/abs/2010.11411), we present an early use of our approach in the [Human-AI Interaction](https://haiicmu.github.io/) Course at CMU, Fall 2020. Through an in-class activity, we report empirical data for the initial effectiveness of our approach.
 
 Our results suggest that the use of the Value Cards toolkit can:
@@ -16,9 +18,11 @@ Our results suggest that the use of the Value Cards toolkit can:
 
 **(c)** enable them to communicate, negotiate and synthesize the perspectives of diverse stakeholders.
 
-Through out the study design and development, we paid special attention to the limitation of persona card.
+Through out the study design and development, we paid special attention to the limitation of persona card.In our instruction, we remind students that each stakeholder’s value offered in the Persona Cards should only be served as a starting point. Students are encouraged to enrich the persona background and celebrate stakeholders’ intersectionalities.
 
 **<font color=red>For Instructors</font>**:
+
+Below are the Value Cards and complementary teaching materials we used in our remote activity.
 
 - Value Cards (Ready to use)
 
