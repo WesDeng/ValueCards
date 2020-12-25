@@ -11,27 +11,27 @@ Recently, there have been increasing calls for computer science curricula to com
 - **Persona Cards**. Inspired by [Envisioning Cards](https://www.envisioningcards.com/)
 - **Checklist Cards**. Inspired by and adopted from [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](https://www.microsoft.com/en-us/research/publication/co-designing-checklists-to-understand-organizational-challenges-and-opportunities-around-fairness-in-ai/)
 
-In our [paper](https://arxiv.org/abs/2010.11411) aceepted by FAccT 2021, we present an early use of our approach in the [Human-AI Interaction](https://haiicmu.github.io/) course at Carnegie Mellon University, Fall 2020. Through a one hour, in-class (virtual) activity, we report empirical data for the initial effectiveness of our approach.
+In our [paper](https://arxiv.org/abs/2010.11411) accepted by FAccT 2021, we present an early use of our approach in the [Human-AI Interaction](https://haiicmu.github.io/) course at Carnegie Mellon University, Fall 2020. Drawing insights from a one-hour, in-class (virtual) activity participated by 56 college students, we report empirical data for the initial effectiveness of our approach.
 
-Our results suggest that the use of the Value Cards toolkit can:
+Our results suggest that the use of **Value Cards** can:
 
 **(a)** improve students' understanding of both the technical definitions and trade-offs of performance metrics and apply them in real-world contexts 
 
-**(b)** help them recognize the significance of considering diverse social values in the development of deployment of algorithmic systems
+**(b)** help students recognize the significance of considering diverse social values in the development of deployment of algorithmic systems
 
-**(c)** enable them to communicate, negotiate and synthesize the perspectives of diverse stakeholders.
+**(c)** enable students to communicate, negotiate and synthesize the perspectives of diverse stakeholders.
 
-Through out the study design and development, we paid special attention to the limitation of Persona Card. In our activity instruction, we remind students that each stakeholder’s value offered in the Persona Cards should only be served as a starting point. Students are encouraged to enrich the persona background and celebrate stakeholders’ intersectionalities.
+Through out the study design and development, we paid special attention to the limitation of **Persona Card**. In our activity instruction, we remind students that each stakeholder’s value offered in the Persona Cards should only be served as a starting point. Students are encouraged to enrich the persona background and celebrate stakeholders’ intersectionalities.
 
 **<font color=red>For Instructors and Workshop Organizers</font>**:
 
-As we received positive feedback and constructive critique from our students in our Human AI Interaction class, we are excited to share Value Cards, along with the complementary teaching materials we used in our remote activity, with instructors and workshop organizers. 
+As we received positive feedback and constructive critique from our students in our Human AI Interaction class, we are excited to share **Value Cards**, along with the complementary teaching materials we used in our remote activity, with instructors and workshop organizers. 
 
 Click [**<font color=red>here</font>**](https://drive.google.com/drive/folders/1xBWgcZO94LA6CI6soLp0-BuPx7aesoqW?usp=sharing) to download the zip file containing all the materials below. 
 
-- Value Cards (Ready to use)
+- [Value Cards]() (Ready to use)
 
-- Value Cards (Open to adoption)
+- [Value Cards]() (Open to adoption)
   - We use [this interface](https://value-sensitive-viz.herokuapp.com/explore_scenario.html) to help us generate realistic models that emphasizing different performance metrics in the recidivism prediction setting.
 
 - [Activity Rundown]()
@@ -40,4 +40,4 @@ Click [**<font color=red>here</font>**](https://drive.google.com/drive/folders/1
 
 - [Code Book]() generated through an inductive thematic analysis on the discussion transcripts of 14 teams (56 students).
 
-If you have any questions about the using Value Cards in your class/workshop, feel free to reach out to [Wesley Deng](https://www.wesleydeng.com/) through email (hanwend _at_ andrew _dot_ cmu _dot_ edu)or [twitter](https://twitter.com/wes_deng). 
+If you have any questions about the using **Value Cards** in your class/workshop, feel free to reach out to [Wesley Deng](https://www.wesleydeng.com/) through email (hanwend _at_ andrew _dot_ cmu _dot_ edu)or [twitter](https://twitter.com/wes_deng). 
