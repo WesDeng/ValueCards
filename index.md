@@ -2,7 +2,7 @@
 
 ## An Educational Toolkit for Teaching Social Impacts of Machine Learning through Deliberation
 
-### [Hong Shen](https://www.andrew.cmu.edu/user//hongs/), [Wesley H. Deng](https://www.wesleydeng.com/), [Aditi Chattopadhyay](https://www.linkedin.com/in/aditi-chattopadhyay/), [Zhiwei Steven Wu](https://zstevenwu.com/), [Xu Wang](http://www.cs.cmu.edu/~xuwang/), [Haiyi Zhu](https://haiyizhu.com/)
+### [Hong Shen](https://www.andrew.cmu.edu/user//hongs/), [Wesley H. Deng](https://www.wesleydeng.com/), [Aditi Chattopadhyay](https://www.linkedin.com/in/aditi-chattopadhyay/), [Zhiwei Steven Wu](https://zstevenwu.com/), [Xu Wang](http://www.cs.cmu.edu/~xuwang/), [Haiyi Zhu](https://haiyizhu.com/) _In Proceeding of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21)_
 
 Recently, there have been increasing calls for computer science curricula to complement existing technical training with topics related to Fairness, Accountability, Transparency, and Ethics (FATE). We present **Value Cards**, an educational toolkit to inform students and practitioners of the social impacts of different machine learning models via deliberation. 
 
@@ -15,13 +15,22 @@ In our [paper](https://arxiv.org/abs/2010.11411) accepted by FAccT 2021, we pres
 
 Our results suggest that the use of **Value Cards** can:
 
-**(a)** improve students' understanding of both the technical definitions and trade-offs of performance metrics and apply them in real-world contexts 
+> **(a)** improve students' understanding of both the technical definitions and trade-offs of performance metrics and apply them in real-world contexts 
 
-**(b)** help students recognize the significance of considering diverse social values in the development of deployment of algorithmic systems
+> **(b)** help students recognize the significance of considering diverse social values in the development of deployment of algorithmic systems
 
-**(c)** enable students to communicate, negotiate and synthesize the perspectives of diverse stakeholders.
+> **(c)** enable students to communicate, negotiate and synthesize the perspectives of diverse stakeholders.
 
-Through out the study design and development, we paid special attention to the limitation of **Persona Card**. In our activity instruction, we remind students that each stakeholder’s value offered in the Persona Cards should only be served as a starting point. Students are encouraged to enrich the persona background and celebrate stakeholders’ intersectionalities.
+Hear what our students say:
+
+> This was amazing! So much better than traditional lectures -- Anonymized post survey.
+
+> I think that discussing the perspective of defendants while trying to choose a model really gave me a moment to step into the shoes of the defendants and 
+> understand what the impacts of different decisions could have on them and others. -- Anonymized post survey.
+
+You can read more about our findings in the [paper](https://arxiv.org/abs/2010.11411). It is worth mentioning that, through out the study design and development, we paid special attention to the limitation of **Persona Card**. In our activity instruction, we remind students that each stakeholder’s value offered in the Persona Cards should only be served as a starting point. Students are encouraged to enrich the persona background and celebrate stakeholders’ intersectionalities.
+
+---------------------------------------
 
 **<font color=red>For Instructors and Workshop Organizers</font>**:
 
@@ -40,4 +49,4 @@ Click [**<font color=red>here</font>**](https://drive.google.com/drive/folders/1
 
 - [Code Book]() generated through an inductive thematic analysis on the discussion transcripts of 14 teams (56 students).
 
-If you have any questions about using **Value Cards** in your class/workshop, feel free to reach out to [Wesley Deng](https://www.wesleydeng.com/) through email (hanwend _at_ andrew _dot_ cmu _dot_ edu)or [twitter](https://twitter.com/wes_deng). 
+If you have any questions about using **Value Cards** in your class/workshop, feel free to reach out to [Wesley Deng](https://www.wesleydeng.com/) through email (hanwend _at_ andrew _dot_ cmu _dot_ edu). 
