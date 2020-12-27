@@ -11,7 +11,7 @@ Recently, there have been increasing calls for computer science curricula to com
 - **Persona Cards**. Inspired by [Envisioning Cards](https://www.envisioningcards.com/)
 - **Checklist Cards**. Inspired by and adopted from [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](https://www.microsoft.com/en-us/research/publication/co-designing-checklists-to-understand-organizational-challenges-and-opportunities-around-fairness-in-ai/)
 
-In our [paper](https://arxiv.org/abs/2010.11411) accepted by FAccT 2021, we present an early use of our approach in the [Human-AI Interaction](https://haiicmu.github.io/) course at Carnegie Mellon University, Fall 2020. Drawing insights from a one-hour, in-class (virtual) activity participated by 56 college students, we report empirical data for the initial effectiveness of our approach.
+In our [paper](https://arxiv.org/abs/2010.11411) accepted by FAccT 2021, we present an early use of our approach in the [Human-AI Interaction](https://haiicmu.github.io/) course at Carnegie Mellon University, Fall 2020. Drawing insights from a one-hour, in-class <font color=red>virtual</font> activity participated by 56 college students, we report empirical data for the initial effectiveness of our approach.
 
 Our results suggest that the use of **Value Cards** can:
 
@@ -40,4 +40,4 @@ Click [**<font color=red>here</font>**](https://drive.google.com/drive/folders/1
 
 - [Code Book]() generated through an inductive thematic analysis on the discussion transcripts of 14 teams (56 students).
 
-If you have any questions about the using **Value Cards** in your class/workshop, feel free to reach out to [Wesley Deng](https://www.wesleydeng.com/) through email (hanwend _at_ andrew _dot_ cmu _dot_ edu)or [twitter](https://twitter.com/wes_deng). 
+If you have any questions about using **Value Cards** in your class/workshop, feel free to reach out to [Wesley Deng](https://www.wesleydeng.com/) through email (hanwend _at_ andrew _dot_ cmu _dot_ edu)or [twitter](https://twitter.com/wes_deng). 
