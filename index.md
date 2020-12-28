@@ -35,7 +35,7 @@ You can read more about our findings in the [paper](https://arxiv.org/abs/2010.1
 
 **<font color=red>For Instructors and Workshop Organizers</font>**:
 
-As we received positive feedback and constructive critique from our students in our Human AI Interaction class, we are excited to share **Value Cards**, along with the complementary teaching materials we used in our remote activity, with instructors and workshop organizers. 
+As we received positive feedback and constructive critique from our students in our Human AI Interaction class, we are excited to share **Value Cards**, along with the complimentary teaching materials we used in our remote activity, with instructors and workshop organizers. 
 
 Click [**<font color=red>here</font>**](https://drive.google.com/drive/folders/1xBWgcZO94LA6CI6soLp0-BuPx7aesoqW?usp=sharing) to access the Google Drive containing all the materials below. 
 
