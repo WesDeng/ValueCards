@@ -22,7 +22,7 @@ Our results suggest that the use of **Value Cards** can:
 
 > **(c)** enable students to communicate, negotiate and synthesize the perspectives of diverse stakeholders.
 
-Hear what our students say:
+**Hear what our students say:**
 
 > _"This was amazing! So much better than traditional lectures."_ -- **Anonymized post-activity survey**.
 
