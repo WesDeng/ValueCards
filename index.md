@@ -37,17 +37,17 @@ You can read more about our findings in the [paper](https://arxiv.org/abs/2010.1
 
 As we received positive feedback and constructive critique from our students in our Human AI Interaction class, we are excited to share **Value Cards**, along with the complementary teaching materials we used in our remote activity, with instructors and workshop organizers. 
 
-Click [**<font color=red>here</font>**](https://drive.google.com/drive/folders/1xBWgcZO94LA6CI6soLp0-BuPx7aesoqW?usp=sharing) to download the zip file containing all the materials below. 
+Click [**<font color=red>here</font>**](https://drive.google.com/drive/folders/1xBWgcZO94LA6CI6soLp0-BuPx7aesoqW?usp=sharing) to access the Google Drive containing all the materials below. 
 
-- [Value Cards]() (Ready to use)
+- [Value Cards](https://drive.google.com/drive/folders/1OklXFW3WhAgySGIlybQnsXIUKJB_AEnk?usp=sharing) (Ready to use)
 
-- [Value Cards]() (Open to adoption)
+- [Value Cards](https://docs.google.com/presentation/d/1aotKspFo64xR5bp3upIHFGWQ0X2VIPw02RGHfV4G_L0/edit?usp=sharing) (Open to adaptation)
   - We use [this interface](https://value-sensitive-viz.herokuapp.com/explore_scenario.html) to help us generate realistic models that emphasizing different performance metrics in the recidivism prediction setting.
 
-- [Activity Rundown]()
+- [Activity Rundown](https://drive.google.com/file/d/1VC1Or8f_c6UguSZZKBpdRzQLlJqr6AgB/view?usp=sharing)
 
-- [Pre Quiz]() and [Post Quiz]()
+- [Pre Quiz](https://docs.google.com/document/d/11Pvz2g5g1YUQZOLbRuCRCqk7SJqxov_T4Y6H-Kf5pE8/edit?usp=sharing) and [Post Quiz](https://docs.google.com/document/d/1inrR_wzWLWLRGeMhT4Uc_rKibZ72JVc0AISvw6QcyRQ/edit?usp=sharing)
 
-- [Code Book]() generated through an inductive thematic analysis on the discussion transcripts of 14 teams (56 students).
+- [Code Book](https://docs.google.com/document/d/1XxjzbRwwHVlvNCzu5vo1oEx6juyXHybCmv8XeI3_Ubc/edit?usp=sharing) generated through an inductive thematic analysis on the discussion transcripts of 14 teams (56 students).
 
 If you have any questions about using **Value Cards** in your class/workshop, feel free to reach out to us through email (hanwend _at_ andrew _dot_ cmu _dot_ edu) or [twitter](https://twitter.com/wes_deng).
