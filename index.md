@@ -1,9 +1,9 @@
 # Value Cards
 
 ## An Educational Toolkit for Teaching Social Impacts of Machine Learning through Deliberation
-
-### [Hong Shen](https://www.andrew.cmu.edu/user//hongs/), [Wesley H. Deng](https://www.wesleydeng.com/), [Aditi Chattopadhyay](https://www.linkedin.com/in/aditi-chattopadhyay/), [Zhiwei Steven Wu](https://zstevenwu.com/), [Xu Wang](http://www.cs.cmu.edu/~xuwang/), [Haiyi Zhu](https://haiyizhu.com/) 
 ### _In Proceeding of the 2021 ACM Conference on Fairness, Accountability, and Transparency (FAccT '21)_
+### [Hong Shen](https://www.andrew.cmu.edu/user//hongs/), [Wesley H. Deng](https://www.wesleydeng.com/), [Aditi Chattopadhyay](https://www.linkedin.com/in/aditi-chattopadhyay/), [Zhiwei Steven Wu](https://zstevenwu.com/), [Xu Wang](http://www.cs.cmu.edu/~xuwang/), [Haiyi Zhu](https://haiyizhu.com/) 
+
 
 Recently, there have been increasing calls for computer science curricula to complement existing technical training with topics related to Fairness, Accountability, Transparency, and Ethics (FATE). We present **Value Cards**, an educational toolkit to inform students and practitioners of the social impacts of different machine learning models via deliberation. 
 
